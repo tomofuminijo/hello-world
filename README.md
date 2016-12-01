@@ -1,2 +1,12 @@
 # hello-world
-My First Repository
+
+Hello everyone,
+
+This repository is my first repository on Github.
+This is for test purpose.
+I would like to create and publish various useful code for the world using Github!
+
+I will also write various technical information on my blog.
+http://tmnj.hatenablog.com/
+
+Thanks!
